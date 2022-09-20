@@ -1,0 +1,27 @@
+{
+  "name": "my-first-web-server",
+  "version": "0.0.1",
+  "description": "my first web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node server.js"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "fs",
+    "args",
+    "http"
+  ],
+  "author": "@gwilson251",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
